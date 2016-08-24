@@ -1,6 +1,7 @@
 # awesome-public-datasets
-taken from https://github.com/caesar0301/awesome-public-datasets
-
+Awesome Public Datasets
+This list of public data sources are collected and tidied from blogs, answers, and user responses. Most of the data sets listed below are free, however, some are not. Other amazingly awesome lists can be found in the awesome-awesomeness and sindresorhus's awesome list.
+https://github.com/caesar0301/awesome-public-datasets
 
 Deep Learning.
 These datasets can be used for benchmarking deep learning algorithms:
