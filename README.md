@@ -24,4 +24,5 @@ Making 15.66TB of research data available.
 
 # Images Data Sets
 https://www.kairos.com/blog/60-facial-recognition-databases
+http://www.face-rec.org/databases/
 
